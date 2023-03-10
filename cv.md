@@ -9,6 +9,7 @@
 + Email: andrew_ilyushchenko@mail.ru
 + Telegram: @Andrew7932
 + GitHub: [Andrey-Ilyushchenko](https://github.com/Andrew-Ilyushchenko)
++ Discord: 
 ***
 
 ### About me
@@ -43,5 +44,9 @@ I study at the university (BSUIR). My future specialty is an information securit
     ```
    
 ### Education
+(Courses) TeachMeSkills (not completely)
 
-### Language
+
+### English 
+A2-B1
+
